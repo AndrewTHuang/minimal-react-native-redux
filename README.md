@@ -29,7 +29,7 @@ Open the project in Xcode (v7.0 or higher)
 Press `Command-R` to build the app
 ```
 
-Upon successful build, Simulator automatically launch and open the app!
+Upon successful build, Simulator will automatically launch and open the app!
 
 ## Subsequent Usage
 After the initial build, there is no need for Xcode if you're just playing around with the app in Simulator. To do so, follow these steps:
