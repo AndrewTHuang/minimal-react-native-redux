@@ -1,0 +1,21 @@
+{
+  "name": "minimal-react-native-redux",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.24.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.1"
+  },
+  "devDependencies": {
+    "remote-redux-devtools": "^0.2.2"
+  },
+  "description": "This is a super simple counter app for playing around with React Native.",
+  "main": "index.ios.js",
+  "author": "",
+  "license": "ISC"
+}
