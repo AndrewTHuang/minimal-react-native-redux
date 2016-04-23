@@ -18,6 +18,7 @@ This is a simple counter app for playing around with React Native.
 > git clone https://github.com/AndrewTHuang/minimal-react-native-redux.git
 > cd minimal-react-native-redux
 > npm install
+> npm start (this will run React packager on port 8081)
 ```
 
 #### Run the build process in Xcode
@@ -28,13 +29,7 @@ Open the project in Xcode (v7.0 or higher)
 Press `Command-R` to build the app
 ```
 
-Upon successful build, Simulator will be launched
-
-#### See the app in action
-```
-In Simulator, swipe to the second screen
-Tap on the `MinimalReactNativeRedux` icon
-```
+Upon successful build, Simulator automatically launch and open the app!
 
 ## Subsequent Usage
 After the initial build, there is no need for Xcode if you're just playing around with the app in Simulator. To do so, follow these steps:
